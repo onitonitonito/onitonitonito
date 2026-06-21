@@ -1,6 +1,3 @@
-# 💻 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onitonitonito&theme=tokyonight&locale=ko)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 
 <div align="center">
   <!-- 스트릭 스탯 카드 -->
@@ -12,7 +9,8 @@
 <br/>
 
 <!-- 하단 파도 장식 (Capsule Render) -->
-![Footer](https://capsule-render.herokuapp.com/api?type=waving&color=0:b0a2f5,100:ffbb8b&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:b0a2f5,100:ffbb8b&height=150&section=footer)
+
 
 
 <!--
