@@ -1,3 +1,12 @@
+<!-- 헤더 이미지 (Capsule Render) -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f59f74,100:958bf1&height=200&section=header&text=YOLOL&desc=You%20Only%20Love%20Ordinary%20LifeStyle&descSize=12)
+
+<!-- 하단 주황색 타이틀 (HTML 중앙 정렬) -->
+<div align="center">
+  <h3 style="color: #ff763b; font-family: monospace; border: none; margin-top: 20px;">
+    Deligent AI Agents × Lazy LifeStyle x Dev-ops
+  </h3>
+</div>
 
 <div align="center">
   <!-- 스트릭 스탯 카드 -->
