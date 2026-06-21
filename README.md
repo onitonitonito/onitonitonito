@@ -1,12 +1,10 @@
 <!-- 헤더 이미지 (Capsule Render) -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f59f74,100:958bf1&height=200&section=header&text=YOLOL&desc=You%20Only%20Love%20Ordinary%20LifeStyle&fontSize=45&descSize=13&fontAlignY=38&descAlignY=63&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f59f74,100:958bf1&height=200&section=header&text=YOLOL&desc=You%20Only%20Love%20Ordinary%20LifeStyle&fontSize=50&descSize=24&fontAlignY=30&descAlignY=70&fontColor=ffffff)
 
-<!-- 하단 주황색 타이틀 (HTML 중앙 정렬) -->
-<div align="center">
-  <h3 style="color: #ff763b; font-family: monospace; border: none; margin-top: 20px;">
-    Diligent AI Agents × Lazy LifeStyle x Dev-ops
-  </h3>
-</div>
+<!-- 하단 주황색 타이틀 (GitHub CSS 필터링 우회용 수식 문법 적용) -->
+$$\color{#ff763b}{\text{Diligent AI Agents × Lazy LifeStyle x Dev-ops}}$$
+
+<br/>
 
 <div align="center">
   <!-- 스트릭 스탯 카드 -->
